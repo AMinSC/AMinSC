@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/42-000000?style=flat&logo=Seoul&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seoul-000000?style=flat&logo=42&logoColor=white"/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMinSC&layout=compact&theme=city_lights)

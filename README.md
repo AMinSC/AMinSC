@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/-4A154B?style=flat&logo=slack&logoColor=white"/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMinSC&layout=compact&theme=city_lights)

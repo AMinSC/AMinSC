@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-F37626?style=flat&logo=jupyter&logoColor=white"/>
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,mysql,vscode,github,linux,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,vscode,mysql,github,linux,c,vim,linkedin)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMinSC&layout=compact&theme=city_lights)

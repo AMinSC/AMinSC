@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 
 
-![My Skills](https://skillicons.dev/icons?i=py,django,mysql,postgres,redis,docker,kubernetes,github,linux,c,vim&perline=4)
+![My Skills](https://skillicons.dev/icons?i=py,django,mysql,postgres,github,linux,c,vim&perline=4)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMinSC&layout=compact&theme=city_lights)

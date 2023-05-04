@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 -->
 - 🌱 I’m currently learning Python
 <!--
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 - 📫 How to reach me: cdtjdcjf@gmail.com
+- 🔭 my blog : https://velog.io/@amin/series
+- 🔭 my blog : https://aminsc.github.io/
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...

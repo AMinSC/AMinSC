@@ -13,11 +13,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 🔭 my blog : https://velog.io/@amin/series
-- 
-- 🔭 my blog : https://aminsc.github.io/
-
 - 📫 How to reach me: cdtjdcjf@gmail.com
+
+- 🔭 my blog : https://velog.io/@amin/series
+- 🔭 my blog : https://aminsc.github.io/
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...

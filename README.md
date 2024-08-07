@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 
 -->
-- 🌱  I’m currently learning for Python, Django
+- 🌱  I’m currently learning for Java, Network
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

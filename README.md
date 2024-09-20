@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 
 -->
-- 🌱  I’m currently learning for Java, Spring, CS, Linear DataStructor with C
+- 🌱  I’m currently learning for Java, Spring, Linear DataStructor with C / Cpp
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 
-![My Skills](https://skillicons.dev/icons?i=py,django,java,spring,mysql,linux,docker,nginx,c&perline=4)
+![My Skills](https://skillicons.dev/icons?i=py,django,java,spring,mysql,linux,docker,nginx,c,cpp&perline=4)
 <!-- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMinSC&layout=compact&theme=city_lights)
  -->
